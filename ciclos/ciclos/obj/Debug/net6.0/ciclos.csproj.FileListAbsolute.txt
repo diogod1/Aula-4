@@ -1,0 +1,15 @@
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\bin\Debug\net6.0\ciclos.exe
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\bin\Debug\net6.0\ciclos.deps.json
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\bin\Debug\net6.0\ciclos.runtimeconfig.json
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\bin\Debug\net6.0\ciclos.dll
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\bin\Debug\net6.0\ciclos.pdb
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\obj\Debug\net6.0\ciclos.csproj.AssemblyReference.cache
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\obj\Debug\net6.0\ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\obj\Debug\net6.0\ciclos.AssemblyInfoInputs.cache
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\obj\Debug\net6.0\ciclos.AssemblyInfo.cs
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\obj\Debug\net6.0\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\obj\Debug\net6.0\ciclos.dll
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\obj\Debug\net6.0\refint\ciclos.dll
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\obj\Debug\net6.0\ciclos.pdb
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\obj\Debug\net6.0\ciclos.genruntimeconfig.cache
+C:\Users\diogduarte\Documents\GitHub\Aula-4\ciclos\ciclos\obj\Debug\net6.0\ref\ciclos.dll
